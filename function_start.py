@@ -30,7 +30,8 @@ printPerson(age = 19)
 printPerson()
 
 # create function printNumebrs, with parameter maximum
-# print numbers from 1 to maximum
+# this functions should print all of the numbers between 1 and maximum
+# (use range)
 
 # add skip as parameter
 
