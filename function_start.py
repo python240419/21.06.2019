@@ -29,11 +29,12 @@ printPerson('Danna', 19)
 printPerson(age = 19)
 printPerson()
 
-# create function print numebrs
-# accept parameter maximum
+# create function printNumebrs, with parameter maximum
 # print numbers from 1 to maximum
 
 # add skip as parameter
+
+# add deault value for maximum = 100 and skip = 1
 
 
 
