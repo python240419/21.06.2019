@@ -32,10 +32,23 @@ printPerson()
 # create function printNumebrs, with parameter maximum
 # this functions should print all of the numbers between 1 and maximum
 # (use range)
-
 # add skip as parameter
-
 # add deault value for maximum = 100 and skip = 1
+def myRangePrint( maximum , skip = 1):
+    for x in range(1, maximum, skip):
+        print(x)
+
+myRangePrint()
+myRangePrint( 100 )
+myRangePrint( skip = 1 )
+myRangePrint( 5 )
+
+
+
+
+
+
+
 
 
 
