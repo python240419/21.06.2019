@@ -1,4 +1,4 @@
-        for x in range(7, 100, 7):
+for x in range(7, 100, 7):
     print(x)
 
 sum = 0
